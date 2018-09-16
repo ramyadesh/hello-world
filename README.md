@@ -1,5 +1,1 @@
-# hello-world
-just another repository
-hello everone!!!!!!
-iam ramya deshpande form git....i study computer science.......one of the most boring sub in the world for few people.....i hope i wll successed in this without any difficulty...
-let this gnesh festival bring a great joy in ur lyf....
+
